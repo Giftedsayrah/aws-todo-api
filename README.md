@@ -25,7 +25,7 @@ Base URL: https://benz2wh7q6.execute-api.eu-north-1.amazonaws.com/dev/task
 ---
 
 ## 🛠️ Tools & Technologies
-- AWS Lambda (Node.js)
+- AWS Lambda (Node.txt)
 - API Gateway
 - DynamoDB
 - GitHub
