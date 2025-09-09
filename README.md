@@ -32,11 +32,6 @@ Base URL: https://benz2wh7q6.execute-api.eu-north-1.amazonaws.com/dev/task
 
 ---
 
-## Optional Deliverable
-- Recorded demo or live Postman test *(optional)*
-
----
-
 ## 👩🏽‍💻 Author
 Your Name – (https://github.com/Giftedsayrah)
 
