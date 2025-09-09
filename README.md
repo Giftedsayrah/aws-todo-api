@@ -20,7 +20,7 @@ Base URL: https://benz2wh7q6.execute-api.eu-north-1.amazonaws.com/dev/task
 ---
 
 ## 🗂️ Project Architecture
-![Solution Architecture](./architecture-diagram.png)
+![Solution Architecture](./architecture-diagram.jpeg)
 
 ---
 
